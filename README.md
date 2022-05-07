@@ -1,7 +1,10 @@
 <p align=center><img width=45% src="https://cdn.discordapp.com/attachments/965354142786789416/965354228333826099/standard_1.gif?size=4096"></img></p>
 <h3 align="center">A Casual Coder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=igetuploaded&label=Profile%20views&color=0e75b6&style=flat" alt="igetuploaded" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=igetuploaded&label=Profile%20views&color=0e75b6&style=flat" alt="igetuploaded" />
+<img src="https://img.shields.io/github/followers/igetuploaded"></img>
+
+</p>
 
 - 🔭 I’m currently working on(my discord bot) **Oblivion™**
 
