@@ -1,6 +1,9 @@
 <p align=center> <img width=45% src="https://cdn.discordapp.com/attachments/965354142786789416/965354228333826099/standard_1.gif?size=4096"></img> </p>
 <p align=center>🤖 A casual Coder </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=igetuploaded&label=Profile%20views&color=0e75b6&style=flat" alt="igetuploaded" /> </p>
+
+
 
 - 🌱 I’m currently learning **Java PHP c++ and a little of c# on the side**
 
@@ -13,6 +16,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igetuploaded&show_icons=true&locale=en&layout=compact" alt="igetuploaded" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igetuploaded&show_icons=true&theme=dracula" alt="igetuploaded" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=igetuploaded&show_icons=true&theme=cobalt" alt="igetuploaded" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igetuploaded&" alt="igetuploaded" /></p>
+ 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igetuploaded" alt="igetuploaded" /></a> </p>
