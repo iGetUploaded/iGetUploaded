@@ -1,4 +1,5 @@
-<p align=center> <img width=45% src="https://cdn.discordapp.com/attachments/965354142786789416/965354228333826099/standard_1.gif?size=4096"></img></p>
+<p align=center> <img width=45% src="https://cdn.discordapp.com/attachments/965354142786789416/965354228333826099/standard_1.gif?size=4096"></img> </p>
+<p align=center>🤖 A casual Coder </p>
 
 
 - 🌱 I’m currently learning **Java PHP c++ and a little of c# on the side**
