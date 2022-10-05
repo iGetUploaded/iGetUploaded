@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Java PHP c++ and a little of c# on the side**
+- 🌱 I’m currently learning **ASP.NET & Data Structures & Algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
